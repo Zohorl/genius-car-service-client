@@ -1,5 +1,5 @@
 # Genius Car Services
-Project Live Website [Genius Car Services](https://genius-car-services-1a539.firebaseapp.com/).
+## Project Live Website [Genius Car Services](https://genius-car-services-1a539.firebaseapp.com/).
 
 ## Available Scripts
 
