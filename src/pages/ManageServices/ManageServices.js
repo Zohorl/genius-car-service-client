@@ -7,7 +7,7 @@ const ManageServices = () => {
     const handleDelete = id => {
         const proceed = window.confirm('Are You Sure ?');
         if (proceed) {
-            const url = `http://localhost:5000/service/${id}`;
+            const url = `https://nameless-wildwood-86783.herokuapp.com/service/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })
